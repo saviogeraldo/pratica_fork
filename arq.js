@@ -1,0 +1,1 @@
+console.log('bem vindo a aula sobre git do Curso da Cubos Academy')
